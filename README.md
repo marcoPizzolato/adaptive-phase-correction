@@ -1,6 +1,8 @@
 # adaptive-phase-correction
 Please refer to run_apc.py for an example of usage.
 
+Find an example of data here https://drive.google.com/drive/folders/13hcCBsxsDHl2uVaRQnZEGFtLg1v3-lEC?usp=sharing
+
 Refer to 
 
 - Pizzolato, M., Gilbert, G., Thiran, J. P., Descoteaux, M., & Deriche, R. (2020). Adaptive phase correction of diffusion-weighted images. NeuroImage, 206, 116274. https://doi.org/10.1016/j.neuroimage.2019.116274
